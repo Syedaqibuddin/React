@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: 'avenir';
+  margin: 0 auto;
+  width: 1000px;
+  padding: 2%;
+  text-align: center;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.note {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  text-align: left;
+  padding: 4px;
+  margin: 10px 0;
+}
